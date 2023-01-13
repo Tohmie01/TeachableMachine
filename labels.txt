@@ -1,2 +1,2 @@
-0 AAA
-1 BBB
+0 Cut
+1 cup
